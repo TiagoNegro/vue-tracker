@@ -1,4 +1,9 @@
-# vuetracker
+# Vue Tracker
+
+## About
+```
+Projeto realizado em aulas pelo Alura, basicamente um timer de atividades.
+```
 
 ## Project setup
 ```
@@ -20,5 +25,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
